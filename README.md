@@ -1,2 +1,2 @@
 # Git-CLI-Test
-Learning git from the command line
+Learning Git from the command line
